@@ -1,0 +1,19 @@
+body{
+    background-image: url("steps.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 10px;
+}
+.card{
+  background-color:rgba(0, 0, 0, 0.7);
+}
+h5{ 
+    color:#ffc800;
+}
+button{ 
+    color: #fff !important;
+    font-weight: bolder !important;
+}
+.first-form{ 
+    margin-top: 150px;
+}
